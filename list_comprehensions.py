@@ -15,7 +15,7 @@ def run_one():
 # Main_two, contains the list,add values at the list  whit not divicibel for tree and prints it.
 #USED COMPREHENSIONS!!!.
 def run_two():
-    my_list =[i**2 for i in range (1,101) if i%3 !=3]
+    my_list =[i**2 for i in range (1,101) if i%3!=3]
 
 
 
